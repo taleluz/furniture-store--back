@@ -1,0 +1,50 @@
+[
+{
+    "model": "base.product",
+    "pk": 1,
+    "fields": {
+        "name": "Dom Coffee Table",
+        "desc": "A large and classic living room table that matches your home space.\r\nThe product can be combined with your living room seating system.\r\n\r\nSimple assembly using the assembly instructions that come with the product.",
+        "size_spec": "Height: 30 cm, Width: 50 cm, Depth: 34 cm",
+        "price": "499",
+        "quantity": 40,
+        "proimage": 1,
+        "created_time": "2023-03-04T18:31:33.543Z",
+        "count_in_stock": 34,
+        "subcategory": 1,
+        "category": 1
+    }
+},
+{
+    "model": "base.product",
+    "pk": 2,
+    "fields": {
+        "name": "Luna Desk",
+        "desc": "A designed table made of MDF in a combination of natural wood colors and classic white\r\nAn elegant design that fits into any space at home or in the office and can be used as a computer and work desk, a console, a dressing table and more\r\nHas five wide drawers for additional storage\r\nResistant to heat, moisture and abrasion, long service life, easy assembly.\r\nDesigned for easy and simple assembly using the attached instructions",
+        "size_spec": "Height: 75 cm, Depth: 48 cm, Width: 80 cm",
+        "price": "599",
+        "quantity": 40,
+        "proimage": 2,
+        "created_time": "2023-03-04T18:43:50.229Z",
+        "count_in_stock": 1,
+        "subcategory": 2,
+        "category": 1
+    }
+},
+{
+    "model": "base.product",
+    "pk": 3,
+    "fields": {
+        "name": "Lohoma Bathroom Cabinet",
+        "desc": "Lohoma series makes it easy to start fresh in the  bath. This wall cabinet with shelves and drawers gives a good overview of bottles and jars, and the clean white door brightens the room.",
+        "size_spec": "Width - 120 cm\r\nDepth - 50 cm\r\nLeg height - 20 cm\r\nThe height of the dresser body - 65 cm\r\nThe height of the dresser from the floor - 20 cm",
+        "price": "899",
+        "quantity": 40,
+        "proimage": 4,
+        "created_time": "2023-03-05T17:56:59.620Z",
+        "count_in_stock": 39,
+        "subcategory": 4,
+        "category": 2
+    }
+}
+]
